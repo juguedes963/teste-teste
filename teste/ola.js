@@ -6,5 +6,4 @@ function b(){
 }
 function c(){
     
-}
-doaksdoask
+} 
